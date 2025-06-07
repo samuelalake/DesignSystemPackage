@@ -1,0 +1,4 @@
+module DesignSystemPackage {
+header "DesignSystemPackage-Swift.h"
+export *
+}
