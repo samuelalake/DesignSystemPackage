@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'DesignSystemPackage' in project 'DesignSystemPackage'
+➜ Explicit dependency on target 'DesignSystemPackage' in project 'DesignSystemPackage'
+Target 'DesignSystemPackage' in project 'DesignSystemPackage' (no dependencies)
